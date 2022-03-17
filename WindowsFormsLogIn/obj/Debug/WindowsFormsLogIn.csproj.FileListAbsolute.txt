@@ -1,0 +1,11 @@
+C:\Users\carlo\Desktop\Programacion II\Asignaciones\Trabajo final\WindowsFormsLogIn\WindowsFormsLogIn\bin\Debug\WindowsFormsLogIn.exe.config
+C:\Users\carlo\Desktop\Programacion II\Asignaciones\Trabajo final\WindowsFormsLogIn\WindowsFormsLogIn\bin\Debug\WindowsFormsLogIn.exe
+C:\Users\carlo\Desktop\Programacion II\Asignaciones\Trabajo final\WindowsFormsLogIn\WindowsFormsLogIn\bin\Debug\WindowsFormsLogIn.pdb
+C:\Users\carlo\Desktop\Programacion II\Asignaciones\Trabajo final\WindowsFormsLogIn\WindowsFormsLogIn\obj\Debug\WindowsFormsLogIn.csproj.AssemblyReference.cache
+C:\Users\carlo\Desktop\Programacion II\Asignaciones\Trabajo final\WindowsFormsLogIn\WindowsFormsLogIn\obj\Debug\WindowsFormsLogIn.csproj.SuggestedBindingRedirects.cache
+C:\Users\carlo\Desktop\Programacion II\Asignaciones\Trabajo final\WindowsFormsLogIn\WindowsFormsLogIn\obj\Debug\WindowsFormsLogIn.Properties.Resources.resources
+C:\Users\carlo\Desktop\Programacion II\Asignaciones\Trabajo final\WindowsFormsLogIn\WindowsFormsLogIn\obj\Debug\WindowsFormsLogIn.csproj.GenerateResource.cache
+C:\Users\carlo\Desktop\Programacion II\Asignaciones\Trabajo final\WindowsFormsLogIn\WindowsFormsLogIn\obj\Debug\WindowsFormsLogIn.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\Programacion II\Asignaciones\Trabajo final\WindowsFormsLogIn\WindowsFormsLogIn\obj\Debug\WindowsFormsLogIn.exe
+C:\Users\carlo\Desktop\Programacion II\Asignaciones\Trabajo final\WindowsFormsLogIn\WindowsFormsLogIn\obj\Debug\WindowsFormsLogIn.pdb
+C:\Users\carlo\Desktop\Programacion II\Asignaciones\Trabajo final\WindowsFormsLogIn\WindowsFormsLogIn\obj\Debug\WindowsFormsLogIn.LogInWindow.resources
